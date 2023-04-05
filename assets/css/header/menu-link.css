@@ -1,5 +1,5 @@
 .menu__link{
-    color:#FFFAEC;
+    color: var(--light);
     margin-right: 1rem;
     text-decoration: none;
     font-weight: 400;
@@ -7,9 +7,9 @@
 }
 
 .menu__link:hover{
-    color: #F8CF65;
+    color: var(--yellow);
 }
 
 .menu__link.activo{
-    color: #F8CF65; 
+    color:var(--yellow); 
 }
